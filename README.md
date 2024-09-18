@@ -23,9 +23,6 @@ With a passion for technology and a knack for problem-solving, I love crafting i
 I’m dedicated to transforming ideas into reality through clean code and thoughtful design. Whether it’s creating a responsive front-end or a powerful back-end, I thrive on challenges that push my skills to the limit! 💪
 
 
-[![Percide's GitHub stats](https://github-readme-stats.vercel.app/api?username=Percide07)](https://github.com/Percide07/github-readme-stats)
-
-
 # 💻 Tech Stack:
 #### **Front-End:**
 - **React** 🌐: Building dynamic user interfaces that are both interactive and responsive!
